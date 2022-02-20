@@ -2,4 +2,4 @@
 OSS GIAN Course  
 Title: #FREE/LIBRE OPEN SOURCE SOFTWARE AND THE UNDERLYING TECHNICAL, SOCIAL, AND LEGAL ISSUES  
 Program: Global Initiative of Academic Networks (GIAN) sponsored by Ministry of Human Resource Development Government of India  
-Topics: Introduction to Free/Libre Open Source Software (FLOSS): a Social and Philosophical Perspective
+Topics: 1. Introduction to Free/Libre Open Source Software (FLOSS): a Social and Philosophical Perspective
