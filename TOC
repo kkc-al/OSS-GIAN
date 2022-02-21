@@ -1,3 +1,4 @@
 Lecture/Tutorial         Topic              Description
 L1                       FLOSS              Introduction       
 L2                       Legal aspects      Licensing
+L4                       Technical aspects  Versioning
